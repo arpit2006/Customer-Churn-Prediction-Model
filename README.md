@@ -246,7 +246,5 @@ pip install -r requirements.txt
 ## 👨‍💻 Author
 
 **Arpit Shirbhate**
-
-Passionate about Machine Learning, Data Science, and Software Development.
-
+---
 If you found this project useful, consider giving it a ⭐ on GitHub.
