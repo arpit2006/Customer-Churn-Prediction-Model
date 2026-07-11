@@ -17,7 +17,7 @@ An end-to-end Machine Learning project that predicts whether a telecom customer 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** Telco Customer Churn Dataset
 
