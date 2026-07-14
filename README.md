@@ -44,7 +44,7 @@ Churn
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Key findings from EDA:
 
