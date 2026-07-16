@@ -68,7 +68,7 @@ Customers with higher monthly charges showed a higher tendency to churn.
 
 ---
 
-## 🛠️ Data Preprocessing
+## Data Preprocessing
 
 ### Numerical Features
 
