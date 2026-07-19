@@ -106,7 +106,7 @@ Pipeline
 
 ---
 
-## 🤖 Models Trained
+##  Models Trained
 
 ### Logistic Regression
 
