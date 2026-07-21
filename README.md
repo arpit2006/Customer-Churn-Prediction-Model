@@ -155,7 +155,7 @@ These insights aligned closely with findings from the exploratory data analysis.
 
 ---
 
-## 🌐 Streamlit Application
+##  Streamlit Application
 
 The project includes a Streamlit-based web interface where users can:
 
