@@ -139,7 +139,7 @@ Logistic Regression achieved the highest F1 Score and Recall, making it the pref
 
 ---
 
-## 📊 Feature Importance (XGBoost)
+## Feature Importance (XGBoost)
 
 Top churn-driving features:
 
