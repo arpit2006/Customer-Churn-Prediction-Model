@@ -171,7 +171,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 customer-churn-prediction/
