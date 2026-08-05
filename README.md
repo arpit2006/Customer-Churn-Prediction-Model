@@ -70,7 +70,7 @@ Customers with higher monthly charges showed a higher tendency to churn.
 
 ## Data Preprocessing
 
-### Numerical Features
+### Numerical Feature
 
 * SeniorCitizen
 * tenure
