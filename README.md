@@ -197,7 +197,7 @@ customer-churn-prediction/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
